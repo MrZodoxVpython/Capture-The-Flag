@@ -1,0 +1,13 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          103.82.164.17
++ Target Hostname:    teknik.trunojoyo.ac.id
++ Target Port:        80
++ Start Time:         2025-04-29 15:32:25 (GMT-4)
+---------------------------------------------------------------------------
++ Server: Apache/2.4.52 (Ubuntu)
++ Root page / redirects to: https://teknik.trunojoyo.ac.id/
++ 240 requests: 1 error(s) and 0 item(s) reported on remote host
++ End Time:           2025-04-29 15:34:35 (GMT-4) (130 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
